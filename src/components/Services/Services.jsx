@@ -76,7 +76,7 @@ const Services = () => {
                   </h4>
                   <div className="text">{service.description}</div>
                   <div className="link-btn">
-                    <a href={service.link} className="theme-btn btn-style-one style-two">
+                    <a href="#" className="theme-btn btn-style-one style-two">
                       <span>Learn More</span>
                     </a>
                   </div>
