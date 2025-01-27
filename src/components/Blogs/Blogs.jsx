@@ -19,7 +19,7 @@ const Blogs = () => {
               <div className="category">Pest Control</div>
               <h4><a href="blog-details.html">How to Keep Your Home Safe from Termites</a></h4>
               <div className="post-meta">
-                By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13, 2020</a>
+                By <a href="#"><span> Skanda Pest Control Services</span></a> - <a href="#">October 13, 2020</a>
               </div>
               <div className="text">Learn the best practices for preventing termites in your home.</div>
               <div className="link-btn">
@@ -40,7 +40,7 @@ const Blogs = () => {
               <div className="category">Pest Control</div>
               <h4><a href="blog-details.html">Dealing with Rodent Infestations Effectively</a></h4>
               <div className="post-meta">
-                By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13, 2020</a>
+                By <a href="#"><span> Skanda Pest Control Services</span></a> - <a href="#">October 13, 2020</a>
               </div>
               <div className="text">Effective strategies for controlling rodent problems in your home or business.</div>
               <div className="link-btn">
@@ -61,7 +61,7 @@ const Blogs = () => {
               <div className="category">Pest Control</div>
               <h4><a href="blog-details.html">The Importance of Professional Pest Control Services</a></h4>
               <div className="post-meta">
-                By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13, 2020</a>
+                By <a href="#"><span> Skanda Pest Control Services</span></a> - <a href="#">October 13, 2020</a>
               </div>
               <div className="text">Why opting for professional pest control services can save you time and money.</div>
               <div className="link-btn">
