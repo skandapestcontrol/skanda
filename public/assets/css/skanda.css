@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+}
+.stylecolor{
+    color: white;
+}
+.mybox{
+    display: flex;
+    padding: 10px;
+}
